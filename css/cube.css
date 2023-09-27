@@ -12,7 +12,8 @@ html, body{
 }
 body {
     margin: 0;
-    animation: fadeOut 10s ease-in-out forwards;
+    /* animation: fadeOut 10s ease-in-out forwards; */
+    animation: fadeOut 9s ease-in ;
 }
 
 @keyframes fadeOut {

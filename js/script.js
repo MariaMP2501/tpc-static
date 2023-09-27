@@ -32,7 +32,7 @@ function hideImage() {
 function showImage() {
     imageToHide.style.display = "block";
     isImageHidden = false; 
-}
+} 
 
 // Par défaut, la valise de la "card2" est masquée
 hideCard2Description();
